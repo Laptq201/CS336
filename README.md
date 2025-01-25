@@ -91,6 +91,3 @@ pip install -r requirement.txt
    - Run `searching.py` or `test.py` to query the system.
 5. **Evaluate System**:
    - Use `evaluation.py` to compute performance metrics.
-
-## Contact
-For any questions or support, please contact [example@example.com].
