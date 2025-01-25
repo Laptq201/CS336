@@ -1,11 +1,15 @@
 # Video Retrieval System
 - This is CS336 project:
+
+  
 | Member               | Student ID |
 |----------------------|------------|
 | Trương Quang Lập     | 22520750   |
 | Trần Nguyễn Anh Phong| 22521092   |
 | Huỳnh Đăng Khoa      | 22520669   |
 | Trần Quy Linh        | 22520779   |
+
+
 ## Overview
 This project provides a system for video retrieval based on natural language queries. The workflow includes:
 1. **Keyframe Extraction**: Extract keyframes from video files.
