@@ -1,0 +1,7 @@
+numpy==1.23.5
+torch==2.0.1
+torch_xla==2.0.1
+opencv-python==4.8.0.74
+faiss-cpu==1.7.4
+Pillow==9.5.0
+open-clip-torch==2.18.0
